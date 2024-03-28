@@ -1,0 +1,7 @@
+#ifndef Sokoban
+#define Sokoban
+//ÍÆÏä×Ó
+
+
+
+#endif // !Sokoban
